@@ -1,19 +1,17 @@
-
-# Password Strength Checker
+# Advanced Password Security Analyzer
 
 ## Description
-A Python-based password strength checker that evaluates passwords based on security best practices.
+A Python-based tool that analyzes password strength using security best practices.
 
 ## Features
-- Checks password length
-- Detects uppercase letters
-- Detects lowercase letters
-- Detects numbers
-- Detects special characters
-- Rates password strength
+- Password strength scoring (0–100)
+- Uppercase, lowercase, digit, special character checks
+- Common password detection
+- Security improvement suggestions
 
 ## Technologies Used
 - Python
+- Regex
 
 ## Author
 Aditya Gupta
